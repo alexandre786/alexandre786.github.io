@@ -4,9 +4,6 @@ title:  "Concedendo ao PT o Benefício da dúvida!"
 date:   2014-11-22 12:46:32
 categories: política
 ---
-
-![Melhor cena do cinema][1]  
-
 A corrupção é um problema endêmico no Brasil, e o pior deles, com isso ainda não encontrei quem não concordasse. Uma aula sobre este tema é a excelente trilogia "O Poderoso Chefão" de Francis Ford Copolla. Na verdade, a trilogia é uma aula de política, por isso ainda voltarei ao tema muitas vezes, pautado pelos três filmes.
 
 Recentemente, demos um grande passo no Brasil. Não posso deixar de concordar que a prisão de empresários que ninguém irá chamar de heróis nacionais é um avanço inegável, um recado para o povo brasileiro, para a classe empresarial e para a classe política, de que somos uma democracia **republicana**, com instituições independentes. Reluto em atribuir essa conquista aos governos do PT, mas quando [um professor do MIT filiado ao PSDB diz isso][2], minha tendência é conceder aos petistas ao menos o benefício da dúvida.
@@ -39,11 +36,8 @@ Tudo o que uma empresa precisa para se dar bem é o que um pequeno empreendedor 
 
 Assim, no capitalismo de compadrio (crony capitalism) que temos em operação no Brasil (nosso mercado NUNCA foi livre, diga-se de passagem) os grandes não precisam dos clientes, só precisam apadrinhar um político (que se sente um padrinho, mas não passa de 'nickels and dines' no bolso dos mafiosos, como diz Sollozzo a Don Corleone em "O Poderoso Chefão").
 
-<
+Fato é que com ou sem PT, concordo com Ricardo Semler numa coisa: O Brasil nunca mais será o mesmo. Vejam como [votar era menos relevante do que parecia][6]. Aécio não teria feito muito diferente, em relação aos ministérios. Viva a polícia federal. Meu espírito está mais leve.
 
-p>Fato é que com ou sem PT, concordo com Ricardo Semler numa coisa: O Brasil nunca mais será o mesmo. Vejam como [votar era menos relevante do que parecia][6]. Aécio não teria feito muito diferente, em relação aos ministérios. Viva a polícia federal. Meu espírito está mais leve.
-
-[1]: http://38.media.tumblr.com/255424685845bb7a047ff4c5ea09c33f/tumblr_inline_nffv1h37ep1qaub1t.jpg
 [2]: http://www1.folha.uol.com.br/fsp/opiniao/196552-nunca-se-roubou-tao-pouco.shtml
 [3]: http://alexandrecosta.org/post/82681115350/somos-todos-gado
 [4]: http://livreintercambio.alexandrecosta.org/podcast/rap-do-anarquista/
