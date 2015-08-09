@@ -1,9 +1,27 @@
-# Site settings
-title: 'Alexandre Costa' # Your Title
-tagline: 'Artigos sobre os mais variados assuntos' # A brief tagline for your site
-sidebar_image: /images/cover.jpg
+title: Escritos
+description: Escritos do Alexandre Costa
 
-# Build settings
+url: http://alexandre786.github.io
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
 markdown: redcarpet
 highlighter: pygments
-baseurl: # the subpath of your site, e.g. /blog/
+paginate: 5
+
+navigation:
+ - title: Início
+   url: /index.html
+ - title: Sobre
+   url: /about
+ - title: Contato
+   url: /contato
+
+social:
+   github: alexandre786
+   twitter: alexandre786
+   facebook: alexandre.psi
+   email: alexandre.psi@gmail.com
+
+google_analytics: ""
