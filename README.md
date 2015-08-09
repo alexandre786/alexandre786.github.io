@@ -1,49 +1,36 @@
-![preview Long Haul](/preview.jpg)
+Strange Case
+============
 
-Long Haul is a minimal jekyll theme built with COMPASS / SASS / SUSY and focuses on long form blog plosts. It is meant to used as a starting point for a jekyll blog/website.
+Strange Case is a simple, clean and responsive theme for Jekyll. 
 
-If you really enjoy Long Haul and want to give me credit somewhere on the send or tweet out your experience with Long Haul and tag me [@brianmaierjr](https://twitter.com/brianmaier).
 
-####[View Demo](http://brianmaierjr.com/long-haul)
+### Demo 
 
-## Features
+[Demo](http://thephuse.github.io/strange_case/)
 
-- Minimal, Type Focused Design
-- Built with SASS + COMPASS
-- Layout with SUSY Grid
-- SVG Social Icons
-- Responsive Nav Menu
-- XML Feed for RSS Readers
-- Contact Form via Formspree
-- 5 Post Loop with excerpt on Home Page
-- Previous / Next Post Navigation
-- Estimated Reading Time for posts
-- Stylish Drop Cap on posts
-- A Better Type Scale for all devices
+### Overview 
 
-## Setup
+* Fixed Sidebar with cover image
+* Minimal design 
+* Easy to configure
+* Browser support: Latest releases of Chrome, Safari, Firefox, Mobile Safari and IE 9+.
 
-1. [Install Jekyll](http://jekyllrb.com)
-2. Fork the [Long Haul repo](http://github.com/brianmaierjr/long-haul)
-3. Clone it
-4. Install susy `gem install susy` 
-5. Install normalize `gem install normalize-scss`
-6. Run Jekyll `jekyll serve -w`
-7. Run `compass watch`
-8. Customize!
+### Screenshots
 
-## Site Settings
+![screenshot](/images/screenshot1.png)
+![screenshot](/images/screenshot2.png)
 
-The main settings can be found inside the `_config.yml` file:
+### Setup
 
-- **title:** title of your site
-- **description:** description of your site
-- **url:** your url
-- **paginate:** the amount of posts displayed on homepage
-- **navigation:** these are the links in the main site navigation
-- **social** diverse social media usernames (optional)
-- **google_analytics** Google Analytics key (optional)
+1. Install [Jekyll](http://jekyllrb.com/)
+2. Fork or [download](https://github.com/thephuse/strange_case) this theme repo
+3. Edit the `_config.yml` file (if you make any additional changes to this file, you will need to stop and restart your command in the next step)
+4. From your command line, switch to your site directory and build using `jekyll serve`
+5. Site will be accessible by viewing http://localhost:4000/strange_case/
 
-## License
+### Download
 
-This is [MIT](LICENSE) with no added caveats, so feel free to use this Jekyll theme on your site without linking back to me or using a disclaimer.
+[Download](https://github.com/thephuse/strange_case)
+
+### License
+* [MIT](http://opensource.org/licenses/MIT)
