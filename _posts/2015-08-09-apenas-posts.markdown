@@ -2,7 +2,7 @@
 layout: post
 title:  "Apenas artigos!"
 date:   2015-08-09 14:22:42
-categories: geekagem
+categories: jekyll
 ---
 Este tema que estou usando é tão minimalista que não aceita páginas nem buscas, apenas artigos. Ele é elegante, usa uma fonte legal, e configurei para ser lido em [um endereço de blog](http://blog.alexandrecosta.org) do meu domínio principal.
 
