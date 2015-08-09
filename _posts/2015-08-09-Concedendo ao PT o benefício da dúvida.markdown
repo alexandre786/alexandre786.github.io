@@ -1,4 +1,12 @@
-![][1]  
+---
+layout: post
+title:  "Concedendo ao PT o Benefício da dúvida!"
+date:   2015-08-09 12:46:32
+categories: política
+---
+
+![Melhor cena do cinema][1]  
+
 A corrupção é um problema endêmico no Brasil, e o pior deles, com isso ainda não encontrei quem não concordasse. Uma aula sobre este tema é a excelente trilogia "O Poderoso Chefão" de Francis Ford Copolla. Na verdade, a trilogia é uma aula de política, por isso ainda voltarei ao tema muitas vezes, pautado pelos três filmes.
 
 Recentemente, demos um grande passo no Brasil. Não posso deixar de concordar que a prisão de empresários que ninguém irá chamar de heróis nacionais é um avanço inegável, um recado para o povo brasileiro, para a classe empresarial e para a classe política, de que somos uma democracia **republicana**, com instituições independentes. Reluto em atribuir essa conquista aos governos do PT, mas quando [um professor do MIT filiado ao PSDB diz isso][2], minha tendência é conceder aos petistas ao menos o benefício da dúvida.

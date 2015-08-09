@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Olá, Mundo!"
+date:   2015-08-09 12:48:13
+categories: apresentação
+---
+
 Estou testando o Jekyll para blogar offline. Instalei o Jekyll no meu MacBook Air, e este é o primeiro artigo que escrevo para o novo blog. 
 
 Devo estar convertendo meus artigos para markdown para publicação aqui.
