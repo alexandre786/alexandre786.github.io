@@ -1,0 +1,6 @@
+Estou testando o Jekyll para blogar offline. Instalei o Jekyll no meu MacBook Air, e este é o primeiro artigo que escrevo para o novo blog. 
+
+Devo estar convertendo meus artigos para markdown para publicação aqui.
+
+***Alexandre Costa***   
+Fortaleza, domingo, 09 de agosto de 2015   
