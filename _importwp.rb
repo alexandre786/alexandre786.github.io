@@ -4,7 +4,6 @@ ruby -rubygems -e 'require "jekyll-import";
       "user"     => "itechhoje",
       "password" => "KPUFJE72bpDvwMluaxlK",
       "host"     => "mysql.iphonehoje.com",
-      "socket"   => "",
       "table_prefix"   => "wp_",
       "clean_entities" => true,
       "comments"       => true,
