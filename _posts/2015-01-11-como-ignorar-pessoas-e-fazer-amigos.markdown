@@ -6,8 +6,6 @@ category: produtividade
 tags: dicas, comportamento, produtividade, tecnologia
 ---
 
-
-
 Muitas pessoas falam comigo na internet todos os dias. Não sou nenhuma *netcelebridade*, mas meus podcasts e minha própria atuação profissional, bem como amigos virtuais sempre estão pipocando em notificações no iPad, no iPhone e no Mac. 
 
 Estariam pipocando, confesso, se eu não tivesse, há muito tempo, abandonado a prática de ser notificado a cada vez que alguém tem alguma idéia que envolve uma conversa síncrona comigo.
