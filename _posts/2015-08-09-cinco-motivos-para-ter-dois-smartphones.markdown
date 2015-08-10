@@ -5,9 +5,6 @@ date:   2015-05-05 15:42:10
 categories: tecnologia
 ---
 
-
-# 05 Motivos para você  ter um iPhone e um Smartphone com Android 
-
 > Ébano e Marfim
 > Vivem juntos em perfeita harmonia
 > Lado a lado no teclado do meu piano
