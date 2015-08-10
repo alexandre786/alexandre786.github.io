@@ -3,6 +3,7 @@ layout: post
 title:  "05 Motivos para você ter dois smartphones: um com iOS e outro com Android."
 date:   2015-05-05 15:42:10
 categories: tecnologia
+tags: android ios tecnologia
 ---
 
 > Ébano e Marfim
