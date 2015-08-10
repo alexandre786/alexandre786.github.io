@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “A Arte rara de escrever bem”
+title:  A Arte rara de escrever bem
 date:   2014-11-21 15:03:08
 categories: escrita
 ---
