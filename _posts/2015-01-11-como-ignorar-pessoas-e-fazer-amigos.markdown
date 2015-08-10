@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Controlando meu próprio tempo, ou: porque não respondo suas mensagens na internet imediatamente sempre"
+title:  "Porque não respondo suas mensagens na internet imediatamente sempre"
 date:   2015-01-11 08:45:59
 category: produtividade
 tags: dicas, comportamento, produtividade, tecnologia
