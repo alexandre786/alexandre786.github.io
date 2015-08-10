@@ -7,3 +7,5 @@ sidebar_image: /images/cover.jpg
 markdown: redcarpet
 highlighter: pygments
 baseurl: # the subpath of your site, e.g. /blog/
+twitter_username: alexandre786
+github_username:  alexandre786

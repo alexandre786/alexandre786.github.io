@@ -3,6 +3,7 @@ layout: default
 ---
 <header id="home-header" style="background-image: url({{ site.baseurl }}{{ site.sidebar_image }});">
   <div class="container">
+      
     <h1>{{ site.title }}</h1>
     <ul class="meta">
       <li>
@@ -14,6 +15,8 @@ layout: default
 </header>
 <article>
   <div class="container">
+      <p class="rss-subscribe">assine esse conteúdo<a href="{{ "/feed.xml" | prepend: site.baseurl }}"> via RSS</a></p>
+      <p>{{ site.page }}</p>
     <ul class="posts">
       {% for post in site.posts %}
         <li>
